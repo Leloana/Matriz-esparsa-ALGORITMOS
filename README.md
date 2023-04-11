@@ -8,7 +8,11 @@ Inputs :
 -matrizB.txt
 
 #Outputs :
+
+
 -Matriz A/B condensada
+
+
 -Soma abaixo da diagonal principal de A e B;
 -Matriz A/B completa;
 -Matriz A+B esparsa;
